@@ -1,0 +1,7 @@
+Image ->
+Image Classification with DL Model -> if yes, generate bounding box ->
+Bounding Box Area on Image ->
+PyTesseract Text Recoginition ->
+Retrieve Store Information, Item Information, Price, Date
+
+Package to API
